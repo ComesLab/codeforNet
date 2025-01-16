@@ -1,4 +1,4 @@
-
+'script in Python che utilizza la libreria pytsk3 per analizzare un file in formato raw e cercare informazioni, inclusi file cancellati. pytsk3'
 
 import pytsk3
 import pyewf
